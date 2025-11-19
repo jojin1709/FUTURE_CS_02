@@ -113,14 +113,24 @@ The entire activity suggests a multi-stage cyber attack:
 This matches real-world intrusion patterns seen in MITRE ATT&CK framework.
 
 🛡 Recommended Security Actions
-Priority	Action
-🔴 High	Isolate infected systems immediately
-🔴 High	Reset credentials of affected accounts
-🟠 Medium	Block suspicious public IPs
-🟠 Medium	Enable multi-factor authentication (MFA)
-🟡 Low	Patch & update systems
-🟡 Low	Enable strict monitoring with alert rules
+Priority	                                                   Action
+
+🔴 High	                                                    Isolate infected systems immediately
+
+🔴 High                                                 	Reset credentials of affected accounts
+
+🟠 Medium	                                                    Block suspicious public IPs
+
+🟠 Medium	                                                 Enable multi-factor authentication (MFA)
+
+🟡 Low                                                         	Patch & update systems
+
+🟡 Low                                                     	Enable strict monitoring with alert rules
+
+
+
 📚 Internship Learning Outcome
+
 
 By completing this task, I gained hands-on experience in:
 
